@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Baidu_MobAds/Baidu_MobAds.iml" filepath="$PROJECT_DIR$/.idea/modules/Baidu_MobAds/Baidu_MobAds.iml" group="baiduad/Baidu_MobAds" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/baiduad.iml" filepath="$PROJECT_DIR$/.idea/modules/baiduad.iml" group="baiduad" />
+    </modules>
+  </component>
+</project>
